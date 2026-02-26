@@ -1,16 +1,26 @@
-## Hi there 👋
+<h1 align="center">Moussa Jaafar-Sannan</h1>
+<p align="center">
+  Full-Stack Software Engineer • AI & Backend Systems Enthusiast
+</p>
 
-<!--
-**MoussaMJS/MoussaMJS** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+🎓 Applied Computing Graduate — University of Windsor (2025)  
+🚀 Building intelligent, scalable full-stack applications  
+🧠 Creator of <b>Eisen</b> — AI email productivity assistant  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🛠 Tech Stack
+
+**Languages:** Java • Python • JavaScript • SQL  
+**Frontend:** React  
+**Backend:** Flask • Spring Boot  
+**Data & Infra:** PostgreSQL • Redis • Docker • AWS  
+
+---
+
+### 📫 Contact
+
+📧 moussamjs1@hotmail.com  
+🔗 github.com/MoussaMJS
